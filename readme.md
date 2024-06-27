@@ -10,6 +10,11 @@
 
 ## 使用方法
 
+```
+pip install -r requirements.txt
+python evaluate.py
+```
+
 运行 **srun_login.py** 即可（记得连接 buaa-wifi）。
 
 ## 参考项目
@@ -17,10 +22,6 @@
 [GitHub - iskoldt-X/SRUN-authenticator: 校园网深澜认证Python 脚本，支持Docker 旨在方便同学们的日常使用。默认国科大UCAS，其他学校也可以使用。](https://github.com/iskoldt-X/SRUN-authenticator)
 
 [jxnu_srun/jxnu_wifi.py at master · huxiaofan1223/jxnu_srun · GitHub](https://github.com/huxiaofan1223/jxnu_srun)
-
-
-
-
 
 ## ？
 
