@@ -10,12 +10,16 @@
 
 ## 使用方法
 
+**连接 BUAA-WiFi（不要连接 BUAA-Mobile）**
+
+然后在 **PowerShell** 或 **CMD** 运行如下命令：
+
 ```
 pip install -r requirements.txt
 python evaluate.py
 ```
 
-运行 **srun_login.py** 即可（记得连接 buaa-wifi）。
+或者在 **VSCode** 等 **IDE** 中运行 **srun_login.py**。
 
 ## 参考项目
 
@@ -25,6 +29,8 @@ python evaluate.py
 
 ## ？
 
-话说有 PEAP 的自动登录其实也不需要这个脚本awa
+话说有 BUAA-Mobile 的 PEAP 的自动登录其实也不需要这个脚本awa
+
+主要还是为了 ESP32 的移植
 
 就当练习吧
