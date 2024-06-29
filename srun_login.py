@@ -162,8 +162,8 @@ def is_connected():
 
 if __name__ == "__main__":
     global username, password
-    username = "23374311"
-    password = "asd20050115a"
+    username = "your_account"
+    password = "your_password"
     get_ip()
     get_token()
     do_complex_work()
